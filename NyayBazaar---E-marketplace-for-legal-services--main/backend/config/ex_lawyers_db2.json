@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Harshavardhan Bollineni",
+      "username": "harsha",
+      "password": "hashedpassword123",
+      "email": "harsha@example.com",
+      "type_of_service_tag": "lawyer",
+      "specialization_tags": ["commercial", "criminal", "civil", "corporate"],
+      "tier": 5,
+      "rating": 5,
+      "documents": [],
+      "experience": 17,
+      "about": "Experienced lawyer specializing in commercial, criminal, corporate and civil litigation.",
+      "verified": false
+    }
+  ]
+  

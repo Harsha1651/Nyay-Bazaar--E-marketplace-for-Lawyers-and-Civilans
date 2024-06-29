@@ -1,0 +1,47 @@
+architecture
+
+1.Frontend: The frontend of your application is likely built using a modern JavaScript framework like React or Vue.js. It includes various components and pages to provide features like accessibility, legal education, smart filtering, comprehensive lawyer profiles, multi-channel communication, and more.
+
+2.Backend: The backend of your application is likely a server-side technology like Node.js or Django. It handles requests from the frontend, processes them, and returns responses. It includes APIs for AI-powered legal assistance, secure payments, and more.
+
+3.Database: Your application likely uses a database to store data like user information, lawyer profiles, case details, and more. The database could be a SQL database like PostgreSQL or MySQL, or a NoSQL database like MongoDB.
+
+4.AI-Powered Legal Assistant: Your application uses Large Language Models (LLMs) to provide guidance on legal queries and recommendations for appropriate legal actions and lawyers. This could be a separate service or part of the backend.
+
+5.External Integrations: Your application integrates with DigiLocker for verification of lawyers' official certifications. It also integrates with government platforms and possibly other external services.
+
+6.Payment Gateway: Your application includes a secure payment gateway for handling transactions. This could be an integration with a service like Stripe or PayPal.
+
+7.Blockchain: Your application uses blockchain technology for storing sensitive case-related material. This could be a separate service or part of the backend.
+
+
+
+use case description
+
+1.User Registration: A new user visits the platform and registers by providing necessary details.
+
+2.User Login: A registered user logs into the platform using their credentials.
+
+3.Search for Legal Services: A user uses the tag-based smart filtering system to search for legal services based on various parameters like price, rating, recommendation, experience, locality, and language.
+
+4.View Lawyer Profile: A user views the profile of a lawyer, which includes details like certification, experience, ratings, and reviews.
+
+5.Communicate with Lawyer: A user uses the multi-channel communication system to connect with a lawyer through video, audio, or text-based chat.
+
+6.Use AI-Powered Legal Assistant: A user interacts with the AI-powered legal assistant for guidance on legal queries and recommendations for appropriate legal actions and lawyers.
+
+7.Track Case: A user tracks the status of their case and receives updates.
+
+8.Make Payment: A user makes a secure payment for the legal services received.
+
+9.Provide Feedback: A user provides feedback, reviews, and ratings for the lawyer and the services received.
+
+10.Lawyer Registration: A lawyer registers on the platform by providing necessary details and official certificates.
+
+11.Lawyer Login: A registered lawyer logs into the platform using their credentials.
+
+12.Update Availability Status: A lawyer updates their availability status.
+
+13.Respond to Client Requests: A lawyer responds to client requests through the multi-channel communication system.
+
+14.Track Payment: A lawyer tracks their payment cycles.

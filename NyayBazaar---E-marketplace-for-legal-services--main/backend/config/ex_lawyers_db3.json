@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Venkat",
+      "username": "venkat",
+      "password": "hashedpassword123",
+      "email": "venkat@example.com",
+      "type_of_service_tag": "lawyer",
+      "specialization_tags": ["commercial", "criminal", "civil", "corporate"],
+      "tier": 5,
+      "rating": 5,
+      "documents": [],
+      "experience": 10,
+      "about": "Experienced lawyer specializing in commercial, criminal, corporate and civil litigation.",
+      "verified": true
+    }
+  ]
+  

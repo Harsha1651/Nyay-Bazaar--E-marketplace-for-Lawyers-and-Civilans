@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Mohammed Imran",
+      "username": "md_imran",
+      "password": "hashedpassword123",
+      "email": "imran@example.com",
+      "type_of_service_tag": "lawyer",
+      "specialization_tags": ["commercial", "criminal", "civil", "corporate"],
+      "tier": 5,
+      "rating": 5,
+      "documents": [],
+      "experience": 15,
+      "about": "Experienced lawyer specializing in commercial, criminal, corporate and civil litigation.",
+      "verified": true
+    }
+  ]
+  
