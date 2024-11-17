@@ -1,6 +1,6 @@
-# NyayBazaar - E-Marketplace for Legal Services
+# NyayBazzaar - E-Marketplace for Legal Services
 
-NyayBazaar is an innovative e-marketplace designed to revolutionize the legal services industry. It provides a centralized platform for clients to connect with qualified lawyers and consultants, streamlining the process of seeking legal assistance while ensuring transparency, accessibility, and security.
+NyayBazzaar is an innovative e-marketplace designed to revolutionize the legal services industry. It provides a centralized platform for clients to connect with qualified lawyers and consultants, streamlining the process of seeking legal assistance while ensuring transparency, accessibility, and security.
 
 ## Features
 
@@ -69,7 +69,7 @@ NyayBazaar is an innovative e-marketplace designed to revolutionize the legal se
 
 ## Getting Started
 
-To run the NyayBazaar project locally, follow these steps:
+To run the NyayBazzaar project locally, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies using `npm install`.
